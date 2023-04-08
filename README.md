@@ -35,4 +35,4 @@ Database
 
 
 
-<!-- ![Reception](https://github.com/Shalini0777/Hotel-Management-System/blob/main/src/hotel/management/system/Image/Reception.png) -->
+![Reception](https://github.com/Shalini0777/Hotel-Management-System/blob/main/src/hotel/management/system/Image/Reception.png)
