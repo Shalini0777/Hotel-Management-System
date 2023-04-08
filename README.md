@@ -1,5 +1,4 @@
-# Hotel-Management-System
-# HotelManagementSystem
+## Hotel Management System
 
    It is an overview of management in hotels. It manages and maintains the records of customers, rooms, employees and drivers in the hotel. The project is aimed to 
 maintain the day-to-day state of admission/vacation of Residents, List of employees, room details etc. Main objective of this project is to provide solution for hotel to 
@@ -33,3 +32,7 @@ Database
       insert into department values('Service', '1000000');
 
       insert into department values('Security', '400000');
+
+
+
+<!-- ![Reception](https://github.com/Shalini0777/Hotel-Management-System/blob/main/src/hotel/management/system/Image/Reception.png) -->
